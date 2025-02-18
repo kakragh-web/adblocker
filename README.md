@@ -16,3 +16,4 @@ A powerful Chrome extension for blocking LinkedIn advertisements with advanced M
 [Development instructions coming soon]
 
 ## Contributing
+[Contribution guidelines coming soon]
