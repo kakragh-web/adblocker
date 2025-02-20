@@ -17,3 +17,4 @@ A powerful Chrome extension for blocking LinkedIn advertisements with advanced M
 
 ## Contributing
 [Contribution guidelines coming soon]
+https://roadmap.sh/projects/weather-app
